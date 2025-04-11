@@ -10,7 +10,7 @@ echo ""
 # Check if repository is already cloned
 if [ ! -d "hyperliquid-mcp" ]; then
   echo "Cloning repository..."
-  git clone https://github.com/yourusername/hyperliquid-mcp.git
+  git clone https://github.com/TradingBalthazar/hyperliquid-mcp.git
   cd hyperliquid-mcp
 else
   echo "Repository already exists, using existing directory..."
