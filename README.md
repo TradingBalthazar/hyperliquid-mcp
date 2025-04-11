@@ -11,6 +11,18 @@ A complete package for interacting with the Hyperliquid exchange through a Model
 
 ## Quick Start
 
+### One-Command Installation
+
+Run this single command to clone the repository, install dependencies, and start the application:
+
+```bash
+curl -s https://raw.githubusercontent.com/yourusername/hyperliquid-mcp/master/install-and-run.sh | bash
+```
+
+### Manual Installation
+
+If you prefer to install manually:
+
 1. Clone this repository:
    ```
    git clone https://github.com/yourusername/hyperliquid-mcp.git
